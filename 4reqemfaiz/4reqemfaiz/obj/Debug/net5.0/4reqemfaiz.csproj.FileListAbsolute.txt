@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.exe
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.deps.json
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.runtimeconfig.json
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.dll
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\ref\4reqemfaiz.dll
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\bin\Debug\net5.0\4reqemfaiz.pdb
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.dll
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\ref\4reqemfaiz.dll
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.pdb
+C:\Users\Qasimov\source\repos\4reqemfaiz\4reqemfaiz\obj\Debug\net5.0\4reqemfaiz.genruntimeconfig.cache
